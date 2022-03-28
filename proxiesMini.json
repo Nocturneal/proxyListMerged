@@ -1,0 +1,116 @@
+[
+  {
+    "Host": "200.222.46.130",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "118.68.218.212",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 0
+  },
+  {
+    "Host": "18.139.198.11",
+    "Port": 3128,
+    "Type": 3,
+    "ProxyLevel": 0
+  },
+  {
+    "Host": "200.195.15.150",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 0
+  },
+  {
+    "Host": "3.1.152.209",
+    "Port": 3128,
+    "Type": 3,
+    "ProxyLevel": 0
+  },
+  {
+    "Host": "13.250.242.184",
+    "Port": 3128,
+    "Type": 3,
+    "ProxyLevel": 0
+  },
+  {
+    "Host": "201.18.83.2",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "200.222.211.134",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "189.80.135.130",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "189.80.63.50",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "85.25.199.50",
+    "Port": 5566,
+    "Type": 3,
+    "ProxyLevel": 1
+  },
+  {
+    "Host": "3.1.199.170",
+    "Port": 3128,
+    "Type": 3,
+    "ProxyLevel": 0
+  },
+  {
+    "Host": "83.12.128.42",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "62.112.118.14",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "177.1.26.98",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "159.192.97.222",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 0
+  },
+  {
+    "Host": "45.76.151.82",
+    "Port": 3128,
+    "Type": 3,
+    "ProxyLevel": 3
+  },
+  {
+    "Host": "200.140.132.18",
+    "Port": 8080,
+    "Type": 3,
+    "ProxyLevel": 4
+  },
+  {
+    "Host": "146.56.150.59",
+    "Port": 3128,
+    "Type": 3,
+    "ProxyLevel": 3
+  }
+]
